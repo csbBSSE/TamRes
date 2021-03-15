@@ -1,3 +1,6 @@
+# This code is adapted from the code by Koundinya Desiraju. The original can be found at the link:
+# https://rpubs.com/Koundy/71792
+
 theme_Publication <- function(base_size=14, base_family="sans") {
     library(grid)
     library(ggthemes)
